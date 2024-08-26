@@ -1,5 +1,5 @@
 # 💫 About Me:
-Graduando em Sistemas para internet e estudante de serviços web. Tenho conhecimento em suporte técnico, redes e atendimento ao cliente, flexível e engajado, trabalho bem em equipe e me adapto bem aos ambientes mais diversos. Extrovertido e comunicativo, estou disposto a ajudar o time no que for preciso dentro de minhas capacidades, as quais mantenho sempre em expansão.
+talvez eu seja front-end também, não sei, 50% de chance.
 
 
 ## 🌐 Socials:
