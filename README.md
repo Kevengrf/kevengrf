@@ -1,5 +1,6 @@
 # 💫 About Me:
-talvez eu seja front-end também, não sei, 50% de chance.
+
+📝 “Não se soluciona problemas estampando títulos no peito, portanto, menos ego e mais produtividade.”
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/K3VENDE51GN)
@@ -11,7 +12,6 @@ talvez eu seja front-end também, não sei, 50% de chance.
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-%23009688.svg?style=for-the-badge&logo=espressif&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-%23EF7B4D.svg?style=for-the-badge&logo=n8n&logoColor=white)
