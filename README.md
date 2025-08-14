@@ -1,6 +1,6 @@
 # 💫 About Me:
-trabalho com esp32, micropython, python, react, node, vite, typscript, javascript, postgre
 
+Be Humble
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/keven william) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Keven.will) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/LinkedIn.com/in/kwsr) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kevenwilliam2304@gmail.com) 
